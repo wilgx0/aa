@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hhhhhh
-=======
-1111111
-aaaaaaa
->>>>>>> featurel
+
